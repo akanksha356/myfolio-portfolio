@@ -10,51 +10,37 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:mru3337@gmail.com" data-cursor="disable">
-                mru3337@gmail.com
+              <a href="mailto:suryatejapathuri4@gmail.com" data-cursor="disable">
+                suryatejapathuri4@gmail.com
               </a>
             </p>
-            <h4>Education</h4>
-            <p>Error: 404</p>
+            <h4>Phone</h4>
+            <p>+91 9032625086</p>
+            <h4>Location</h4>
+            <p>India (open to remote work)</p>
           </div>
           <div className="contact-box">
-            <h4>Social</h4>
+            <h4>Profiles</h4>
             <a
-              href="https://github.com/code2ahm"
+              href="https://github.com/suryateja"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Github <MdArrowOutward />
+              GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/ahm4sure"
+              href="mailto:suryatejapathuri4@gmail.com"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Linkedin <MdArrowOutward />
-            </a>
-            <a
-              href="https://x.com/ahm4sure"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/failed.ahm"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
+              Email <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Ahmar Yaseen</span>
+              Designed and Developed <br /> by <span>Surya Teja Pathuri</span>
             </h2>
             <h5>
               <MdCopyright /> 2025

@@ -15,46 +15,47 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Bot Developer</h4>
-                <h5>Assister (Discord Bot)</h5>
+                <h4>Senior Software Engineer</h4>
+                <h5>Neurealm (formerly GS Lab | GAVS)</h5>
               </div>
-              <h3>2025</h3>
+              <h3>2025 – Present</h3>
             </div>
             <p>
-              Built a robust all-in-one Discord bot with Discord.py. Features
-              include advanced anti-nuke protection, automoderation, moderation
-              tools, logging, autoroles, and 200+ utility commands serving
-              active communities.
+              Modernized a large-scale e-commerce platform supporting 900,000+
+              automotive parts, migrated the front end from Angular to React.js and
+              Next.js, built reusable UI components, integrated GraphQL and REST
+              APIs, and optimized front-end performance and stability across
+              production.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Backend Developer</h4>
-                <h5>ASE — Aadil Sir's Endeavours</h5>
+                <h4>Technical Lead</h4>
+                <h5>Trianz</h5>
               </div>
-              <h3>2026</h3>
+              <h3>2021 – 2025</h3>
             </div>
             <p>
-              Built a CMS-based role management system with React and Firebase,
-              featuring Admin and Student dashboards for managing users, marks,
-              fees, and study materials with secure authentication and real-time
-              data handling.
+              Led the migration and enhancement of Hayneedle.com using React.js and
+              Bulma, improved the GAP checkout and shopping bag experience, and
+              built microfrontend and backend services using Java 8, Spring Boot,
+              Python, Flask, and FastAPI for scalable retail experiences.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Atlas Coup</h5>
+                <h4>Lead Software Engineer</h4>
+                <h5>Zensar Technologies</h5>
               </div>
-              <h3>2026</h3>
+              <h3>2015 – 2018</h3>
             </div>
             <p>
-              Built a full-stack productivity and habit-tracking application
-              using React, Vite, and Firebase. Features include five integrated
-              tools, a custom Health Score algorithm, real-time sync, PWA
-              support, and a dark-first UI with Framer Motion transitions.
+              Designed HRMS and admin portal features using Node.js, Moleculer.js,
+              PostgreSQL, Vue.js, Vuex, Vuetify, and D3.js while creating
+              microservices with Docker and Redis, and delivering responsive
+              systems for healthcare and enterprise workflows.
             </p>
           </div>
         </div>

@@ -60,22 +60,22 @@ const SocialIcons = () => {
     <div className="icons-section">
       <div className="social-icons" data-cursor="icons" id="social">
         <span>
-          <a href="https://github.com/code2ahm" target="_blank">
+          <a href="https://github.com/suryateja" target="_blank">
             <FaGithub />
           </a>
         </span>
         <span>
-          <a href="https://www.linkedin.com/in/ahm4sure" target="_blank">
+          <a href="mailto:suryatejapathuri4@gmail.com" target="_blank">
             <FaLinkedinIn />
           </a>
         </span>
         <span>
-          <a href="https://x.com/ahm4sure" target="_blank">
+          <a href="https://github.com/suryateja" target="_blank">
             <FaXTwitter />
           </a>
         </span>
         <span>
-          <a href="https://www.instagram.com/failed.ahm" target="_blank">
+          <a href="tel:+919032625086" target="_blank">
             <FaInstagram />
           </a>
         </span>

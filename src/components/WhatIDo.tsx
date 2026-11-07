@@ -135,19 +135,19 @@ const WhatIDo = () => {
 
             <div className="what-content-in">
               <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h4>Modern UX Engineering</h4>
               <p>
-                Crafting performant, responsive interfaces with modern
-                frameworks. From SPAs to micro-frontends, I deliver
-                pixel-perfect experiences.
+                Building responsive interfaces and scalable product experiences
+                using React.js, Next.js, Vue.js, TypeScript, and component-driven
+                architecture.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">React.js</div>
-                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">Next.js</div>
+                <div className="what-tags">TypeScript</div>
+                <div className="what-tags">Vue.js</div>
                 <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -177,18 +177,18 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
             <div className="what-content-in">
               <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h4>API & Microservices Design</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Designing scalable backends, REST and GraphQL APIs, and secure
+                enterprise services using Java, Python, Node.js, and Spring Boot.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
+                <div className="what-tags">Java</div>
                 <div className="what-tags">Node.js</div>
-                <div className="what-tags">Firebase</div>
-                <div className="what-tags">NoSQL</div>
-                <div className="what-tags">REST APIs</div>
+                <div className="what-tags">Spring Boot</div>
                 <div className="what-tags">Python</div>
+                <div className="what-tags">GraphQL</div>
               </div>
               <div className="what-arrow"></div>
             </div>

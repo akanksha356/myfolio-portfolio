@@ -60,14 +60,14 @@ const Navbar = () => {
     <>
       <div className="header">
         <a href="/#" className="navbar-title" data-cursor="disable">
-          <img src="/images/ahm.png" alt="AHM" className="navbar-logo" />
+          <img src="/images/ahm.png" alt="STP" className="navbar-logo" />
         </a>
         <a
-          href="mailto:mru3337@gmail.com"
+          href="mailto:suryatejapathuri4@gmail.com"
           className="navbar-connect"
           data-cursor="disable"
         >
-          mru3337@gmail.com
+          suryatejapathuri4@gmail.com
         </a>
         <ul>
           <li>
